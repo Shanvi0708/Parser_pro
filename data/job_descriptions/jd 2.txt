@@ -1,0 +1,12 @@
+Job Title: Python Developer
+
+Responsibilities:
+- Write clean and efficient code.
+- Work with the data team to build pipelines.
+- Fix bugs in existing software.
+
+Requirements / Skills:
+- 2+ years of experience in Python.
+- Knowledge of Django or Flask.
+- Strong problem-solving skills.
+- Bachelor's degree in CS.

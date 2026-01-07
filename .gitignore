@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Results
+ranking_results.json
+ranking_results.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive data
+*.env
+config.py
