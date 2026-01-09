@@ -1,12 +1,20 @@
-Job Title: Python Developer
-
-Responsibilities:
-- Write clean and efficient code.
-- Work with the data team to build pipelines.
-- Fix bugs in existing software.
-
-Requirements / Skills:
-- 2+ years of experience in Python.
-- Knowledge of Django or Flask.
-- Strong problem-solving skills.
-- Bachelor's degree in CS.
+Machine Learning Intern
+Company: SkillzenLoop
+Location: Remote
+Employment Type: Internship (Full-time)
+Duration: 1–3 Months
+Stipend: ₹15,000 per month
+Role Description
+SkillzenLoop is looking for a data-driven and curious Machine Learning Intern to join our AI/ML team. In this role, you will assist in developing and deploying predictive models that help solve real-world business challenges. You will gain hands-on experience in the entire ML lifecycle, from data preprocessing and feature engineering to model evaluation and optimization.
+Primary Responsibilities
+• Data Preparation: Clean, preprocess, and perform Exploratory Data Analysis (EDA) on structured and unstructured datasets.
+• Model Development: Assist in building and training machine learning models using libraries like Scikit-learn, TensorFlow, or PyTorch.
+• Feature Engineering: Identify and create relevant features to improve model performance and accuracy.
+• Evaluation: Test and validate models using appropriate metrics (Accuracy, F1-score, RMSE, etc.) and perform hyperparameter tuning.
+• Research: Stay updated on the latest AI/ML trends and assist in implementing state-of-the-art algorithms for internal projects.
+Requirements
+• Education: Currently pursuing or a recent graduate in Computer Science, Data Science, Artificial Intelligence, Statistics, or a related field.
+• Programming Skills: Strong proficiency in Python and libraries such as Pandas, NumPy, and Matplotlib.
+• ML Fundamentals: Solid understanding of supervised and unsupervised learning algorithms (Linear Regression, Random Forest, Clustering, etc.).
+• Mathematics: Good grasp of Linear Algebra, Calculus, and Probability/Statistics.
+• Tools: Familiarity with Jupyter Notebooks and Git for version control.
