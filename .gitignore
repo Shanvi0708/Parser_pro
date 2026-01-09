@@ -28,3 +28,6 @@ Thumbs.db
 # Sensitive data
 *.env
 config.py
+
+# Resume data (do not upload)
+data/resumes/
