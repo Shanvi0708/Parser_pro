@@ -8,7 +8,12 @@ import re      #to find the patterns
 import spacy   #for nlp 
 from docx import Document 
 
-nlp  =  spacy.load("en_core_web_sm") #to understand the english
+# Smart model loading with fallback
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    print("SpaCy model not found. Using blank model.")
+    nlp = spacy.blank("en")
 
 class ResumeParser:
     def __init__(self):
